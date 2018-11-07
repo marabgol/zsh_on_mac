@@ -13,3 +13,6 @@ cd font
 ./install
 
 copy dotzshrc ~/.zshrc
+
+git clone https://github.com/mbadolato/iTerm2-Color-Schemes
+
