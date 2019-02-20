@@ -9,8 +9,8 @@ sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/i
 # install agnoster Oh My zsh
 
 git clone https://github.com/powerline/fonts.git
-cd font 
-./install
+cd fonts 
+./install.sh
 
 copy dotzshrc ~/.zshrc
 
